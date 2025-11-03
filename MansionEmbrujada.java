@@ -29,6 +29,7 @@ public class MansionEmbrujada_v0 {
         Random rand = new Random();
 
         // Crear variable sencera passos
+       int primerspassos=0;
 
         // Crear la variable booleana eixidaTrobada
        
