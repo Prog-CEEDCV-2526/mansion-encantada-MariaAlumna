@@ -1,4 +1,3 @@
-package gvaCEED;
 import java.util.Scanner;
 import java.util.Random;
 
@@ -30,12 +29,14 @@ public class MansionEmbrujada_v0 {
         Random rand = new Random();
 
         // Crear variable sencera passos
+       int passos=0;
 
         // Crear la variable booleana eixidaTrobada
-       
+       boolean eixidaTrobada=false;
         // Mostrar per pantalla 🎃 Benvingut a la Mansió Embruixada 🎃
-        
+        System.out.println("🎃 Benvingut a la Mansió Embruixada 🎃");
         // Mostrar per pantalla "Tens X passos per trobar l’eixida... Bona sort!"
+       System.out.println("Tens "+passos+" passos per trobar l’eixida... Bona sort!");
         
         // Mentre que passos siga major que 0 i no s’haja trobat l’eixida
 
