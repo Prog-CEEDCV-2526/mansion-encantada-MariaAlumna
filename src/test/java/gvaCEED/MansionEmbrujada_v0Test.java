@@ -10,7 +10,10 @@ import java.io.PrintStream;
 import org.junit.jupiter.api.Test;
 
 public class MansionEmbrujada_v0Test {
-
+ @Test
+    void testExample() {
+        assertTrue(true);
+    }
     @Test
     public void testMostraMissatgeInicial() throws Exception {
         // Simulem algunes entrades perquè el programa no es quede esperant
