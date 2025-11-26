@@ -1,5 +1,5 @@
 package gvaCEED;
-
+import gvaCEED.MansionEmbrujada_v0;
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.io.ByteArrayInputStream;
